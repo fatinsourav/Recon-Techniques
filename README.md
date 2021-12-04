@@ -1,8 +1,8 @@
-#### Recon-Techniques
+## Recon-Techniques
 
 A collection of techniques and tools to perform initial recon.
 
-### Contents
+## Contents
 ```
 1. Subdomain Discovery
 2. Directory Bruteforcing
