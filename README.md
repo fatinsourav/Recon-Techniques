@@ -14,4 +14,5 @@ A collection of techniques and tools to perform initial recon.
 8. Analyzing JS Files
 9. Waybackurls
 ```
-
+### Contact
+[![Twitter](https://img.shields.io/badge/twitter-@fatinsourav1-blue.svg)](https://twitter.com/fatinsourav1)
